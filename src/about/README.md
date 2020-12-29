@@ -1,9 +1,9 @@
-# Grant Damron - Resume
+# Grant Damron - Résumé
 
 ## Recent Experience
 
 ### Lead Engineer (Technical Director) <span class="light">//</span> <span class="accent">Enklu</span>
-#### 2019-Present <span class="light">//</span> Augmented Reality
+#### 2019-2021 <span class="light">//</span> Augmented Reality
 
 - Extended and maintained a multiplayer Augmented Reality runtime in C#, built on top of Unity.
 - Developed features for content authoring APIs in Node.js and multiplayer services in .NET Core, running on Azure.
