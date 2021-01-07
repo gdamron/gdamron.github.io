@@ -53,7 +53,7 @@ The goal of `Improvisations` is to put out a generative musical sketch once a we
 ## PaulaSynth
 ![paulasynth](/img/paulasynth.png)
 
-Paula Synth exists in a few forms: a [web app](/paulasynth-js/index.html) and an iOS app. It a simple tool for exploring musical ideas, and it forms the backbone of my ongoing Paula project.
+Paula Synth exists in a few forms: a [web app](/paulasynth-js/) and an iOS app. It a simple tool for exploring musical ideas, and it forms the backbone of my ongoing Paula project.
 
 [Github](https://github.com/gdamron/paulasynth-js)
 
@@ -62,7 +62,7 @@ Paula Synth exists in a few forms: a [web app](/paulasynth-js/index.html) and an
 
 At PullString, we built tool for creating interactive conversations. Our software, Author, was a Turing-complete programming environment that tricked writers into thinking they weren't programming at all -- they were just writing nonlinear narratives. With Author, we created a talking Barbie, several compelling apps for kids, and the best early Alexa Skills.
 
-[Github (SDK, now obsolete)](https://github.com/gdamron/musicBox)
+[Github (SDK, now obsolete)](https://github.com/gdamron?tab=repositories&q=pullstring)
 
 ## Skype Video Bots
 ![ayrton](/img/ayrton.png)
