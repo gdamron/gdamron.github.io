@@ -46,7 +46,7 @@ Nomadic VR may not exist anymore, but we built a powerful platform for managing 
 
 ## Improvisations
 
-The goal of `Improvisations` is to put out a generative musical sketch once a week. As the serverless [music box API](#ambient-music-box) evolves, more of these will become accessible online. For now, [here's an example](/improvisations/2017-11-20).
+The goal of `Improvisations` is to put out a generative musical sketch once a week. As the serverless [music box API](#ambient-music-box) evolves, more of these will become accessible online. For now, [here's an example](/improvisations/2021-02-15).
 
 [Github](https://github.com/gdamron/improvisations)
 
