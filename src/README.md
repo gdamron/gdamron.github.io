@@ -4,7 +4,7 @@ heroText:
 tagline:
 ---
 
-<Sketch />
+# Hey, I'm Grant
 
 I make music, code, bread, and sometimes furniture. Take a look at some [projects](/projects), or my [résumé](/about).
 
