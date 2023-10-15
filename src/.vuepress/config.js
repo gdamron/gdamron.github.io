@@ -14,7 +14,9 @@ module.exports = {
    *
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
-  head: [
+    head: [
+    ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.min.js" integrity="sha512-b/htz6gIyFi3dwSoZ0Uv3cuv3Ony7EeKkacgrcVg8CMzu90n777qveu0PBcbZUA7TzyENGtU+qZRuFAkfqgyoQ==', crossorigin: 'anonymous' }],
+    ['script', { src: '/js/sketch.js' }],
     ['link', { rel: 'icon', href: '/favicon.png'}],
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Syne+Mono&display=swap'}],
     ['meta', { name: 'theme-color', content: '#ff00ff' }],
